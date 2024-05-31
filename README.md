@@ -1,1 +1,2 @@
 # Adaptive-immunity
+As a final project for the Complexity course, my group and I replicated an agent-based model of adaptive immunity using Netlogo (6.3.0) to demonstrate the basic mechanisms behind clonal-selection theory of adaptive immunity and the special case of measles-induced immune amnesia. We draw a parallel between the self-organizing behavior and non-linearity of the immune system and that of Kuhn's proposal of scientific paradigms.
